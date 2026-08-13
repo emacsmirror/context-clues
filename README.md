@@ -130,6 +130,13 @@ Bind to a convenient key:
 
 - Emacs 28.1 or later
 
+## Related projects
+
+- [promptu](https://github.com/mrcnski/promptu.el): generate LLM prompts using
+  customizable building blocks.
+- [surveyor](https://github.com/mrcnski/surveyor.el): diagram your code using
+  your favorite LLM and an intuitive interface.
+
 ## License
 
 GPL-3.0-or-later
